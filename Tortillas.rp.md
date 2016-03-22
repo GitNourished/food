@@ -5,6 +5,7 @@
 SERVING SIZE: 1 tortilla CALORIES: 55 calories FAT: 4.7 g
 
 |                         | Amount | Ingredient    |
+|-------------------------|--------|---------------|
 | <input type="checkbox'> | ¾ cup  | Cassava Flour |
 | <input type="checkbox'> | ¼ tsp  | sea salt      |
 | <input type="checkbox'> | 2 TBS  | Olive Oil     |
