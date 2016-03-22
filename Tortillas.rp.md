@@ -3,7 +3,8 @@
 [source]:http://www.forkandbeans.com/2015/01/10/grain-free-tortillas/
 
 ***Serving Size: 1 Tortilla***
-|Calories|Fat|Carbs|Protein
+
+|Calories|Fat|Carbs|Protein|
 |------------|--------|---|-----|
 |55 | 4.7 g|   |     |       |
 
