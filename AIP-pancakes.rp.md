@@ -4,21 +4,21 @@
 
 
 ##Dry
-|                         | Amount            | Ingredient |
-|-------------------------|-------------------|------------|
-| <input type="checkbox"> | 1 c Cassava Flour |            |
-| <input type="checkbox"> | 1 TBS gelatin     |            |
-| <input type="checkbox"> | 1 tsp baking soda |            |
-| <input type="checkbox"> | ¼ tsp sea salt    |            |
+|                         | Amount | Ingredient    |
+|-------------------------|--------|---------------|
+| <input type="checkbox"> | 1 c    | Cassava Flour |
+| <input type="checkbox"> | 1 TBS  | gelatin       |
+| <input type="checkbox"> | 1 tsp  | baking soda   |
+| <input type="checkbox"> | ¼ tsp  | sea salt      |
 
 ##Wet
-|                         | Amount                    | Ingredient |
-|-------------------------|---------------------------|------------|
-| <input type="checkbox"> | 2 TBS coconut butter      |            |
-| <input type="checkbox"> | 1 c water                 |            |
-| <input type="checkbox"> | 1 TBS maple syrup         |            |
-| <input type="checkbox"> | ½ tsp apple cider vinegar |            |
-| <input type="checkbox"> | 1½ TBS coconut oil        |            |
+|                         | Amount | Ingredient          |
+|-------------------------|--------|---------------------|
+| <input type="checkbox"> | 2 TBS  | coconut butter      |
+| <input type="checkbox"> | 1 c    | water               |
+| <input type="checkbox"> | 1 TBS  | maple syrup         |
+| <input type="checkbox"> | ½ tsp  | apple cider vinegar |
+| <input type="checkbox"> | 1½ TBS | coconut oil         |
 
 ## Instructions
 1. Mix dry ingredients in one bowl
