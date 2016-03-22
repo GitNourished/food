@@ -8,10 +8,10 @@
 
 |                         | Amount | Ingredient    |
 |-------------------------|--------|---------------|
-|<input type="checkbox'>| ¾ cup  |Cassava Flour |
-|<input type="checkbox'>| ¼ tsp  |sea salt      |
-|<input type="checkbox'>| 2 TBS  |Olive Oil     |
-|<input type="checkbox'>| ⅓ cup  |water *warm*  |
+|<input type="checkbox">| ¾ cup  |Cassava Flour |
+|<input type="checkbox">| ¼ tsp  |sea salt      |
+|<input type="checkbox">| 2 TBS  |Olive Oil     |
+|<input type="checkbox">| ⅓ cup  |water *warm*  |
 
 ## Method
 1. Whisk together the flour and salt. Add the oil and warm water until a nice dough begins to form. The dough should not be dry or too wet and sticky.
