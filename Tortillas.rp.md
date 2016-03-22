@@ -2,14 +2,18 @@
 **From [Fork and Beans][source]**
 [source]:http://www.forkandbeans.com/2015/01/10/grain-free-tortillas/
 
-SERVING SIZE: 1 tortilla CALORIES: 55 calories FAT: 4.7 g
+***Serving Size: 1 Tortilla***
+
+|Calories|Fat|Carbs|Protein|
+|------------|--------|---|-----|
+|55 | 4.7 g|   |     |       |
 
 |                         | Amount | Ingredient    |
 |-------------------------|--------|---------------|
-|<input type="checkbox'>| ¾ cup  |Cassava Flour |
-|<input type="checkbox'>| ¼ tsp  |sea salt      |
-|<input type="checkbox'>| 2 TBS  |Olive Oil     |
-|<input type="checkbox'>| ⅓ cup  |water *warm*  |
+|<input type="checkbox">| ¾ cup  |Cassava Flour |
+|<input type="checkbox">| ¼ tsp  |sea salt      |
+|<input type="checkbox">| 2 TBS  |Olive Oil     |
+|<input type="checkbox">| ⅓ cup  |water *warm*  |
 
 ## Method
 1. Whisk together the flour and salt. Add the oil and warm water until a nice dough begins to form. The dough should not be dry or too wet and sticky.
