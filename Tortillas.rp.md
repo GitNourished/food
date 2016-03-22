@@ -2,6 +2,8 @@
 *From [Fork and Beans][source]*
 [source]:http://www.forkandbeans.com/2015/01/10/grain-free-tortillas/
 
+SERVING SIZE: 1 tortilla CALORIES: 55 calories FAT: 4.7 g
+
 |                         | Amount | Ingredient    |
 | <input type="checkbox'> | ¾ cup  | Cassava Flour |
 | <input type="checkbox'> | ¼ tsp  | sea salt      |
