@@ -2,6 +2,10 @@
 **From [Fork and Beans][source]**
 [source]:http://www.forkandbeans.com/2015/01/10/grain-free-tortillas/
 
+| Total Time | Prep   | Cook  |
+|------------|--------|-------|
+| 12 min     | 10 min | 2 min |
+
 ***Serving Size: 1 Tortilla***
 
 |Calories|Fat|Carbs|Protein|
