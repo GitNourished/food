@@ -2,7 +2,9 @@
 **From [Fork and Beans][source]**
 [source]:http://www.forkandbeans.com/2015/01/10/grain-free-tortillas/
 
-SERVING SIZE: 1 tortilla CALORIES: 55 calories FAT: 4.7 g
+|Serving Size|Calories|Fat|Carbs|Protein
+|------------|--------|---|-----|-------|
+|1 tortilla|55 | 4.7 g|   |     |       |
 
 |                         | Amount | Ingredient    |
 |-------------------------|--------|---------------|
