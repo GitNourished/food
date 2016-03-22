@@ -8,7 +8,7 @@
 | <input type="checkbox"> | ¼ ea     | Yellow Onion *diced*               |
 | <input type="checkbox"> | 1 lg     | Sweet Potatoes *shredded*          |
 | <input type="checkbox"> | 5 ea     | Baby Portabello Mushrooms *sliced* |
-| <input type="checkbox"> | 2 ea     | Italian Sausge links *pre-cooked*  |
+| <input type="checkbox"> | 2 ea     | Pork Belly                         |
 | <input type="checkbox"> | 1 tsp    | garlic powder                      |
 | <input type="checkbox"> | ¼ tsp    | smoked paprika                     |
 | <input type="checkbox"> | 4 ea     | eggs                               |
