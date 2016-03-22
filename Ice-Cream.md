@@ -1,5 +1,6 @@
 #Ice Cream Base
-**From [[Bulletproof|https://www.bulletproofexec.com/get-some-ice-cream/]]**
+**From [Bulletproof][source]**
+[source]:https://www.bulletproofexec.com/get-some-ice-cream/
 
 |                         | Amount        | Ingredient                      |
 |-------------------------|---------------|---------------------------------|
