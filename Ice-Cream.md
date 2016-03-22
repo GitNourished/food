@@ -9,7 +9,8 @@
 | <input type="checkbox"> | 2 tsp         | Vanilla Powder                  |
 | <input type="checkbox"> | 1 g           | Vitamin C                       |
 | <input type="checkbox"> | 7 TBS         | Butter                          |
-| <input type="checkbox"> | 7 TBS         | Coconut Oil _Test Cocoa Butter_ |
+| <input type="checkbox"> | 3 TBS         | Coconut Oil                     |
+| <input type="checkbox"> | 4 TBS         | Cacao Butter                    |
 | <input type="checkbox"> | 3 TBS + 2 tsp | MCT Oil                         |
 | <input type="checkbox"> | 5½ TBS        | Sugar Alcohol                   |
 | **Optional**            |               |                                 |
