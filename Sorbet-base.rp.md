@@ -21,7 +21,7 @@
 | <input type="checkbox"> | 1 cup  | Water                           |
 | <input type="checkbox"> | 1 cup  | Xylitol                         |
 | <input type="checkbox"> | 1 cup  | Juice/Puree                     |
-| <input type="checkbox"> | 1 TBS  | Zest **Lime, Lemon, or Orange** |
+| <input type="checkbox"> | 1 TBS  | Zest *Lime, Lemon, or Orange* |
 
 ## Method
 1. Bring the water and xylitol to a boil in a small saucepan
