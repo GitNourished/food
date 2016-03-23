@@ -4,7 +4,7 @@
 
 
 
-***Yield: 2 cups ***
+***Yield: 2 cups***
 
 | Total Time | Prep   | Cook  |
 |------------|--------|-------|
