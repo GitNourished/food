@@ -20,7 +20,7 @@
 | <input type="checkbox"> | ½ tsp  | apple cider vinegar |
 | <input type="checkbox"> | 1½ TBS | coconut oil         |
 
-## Instructions
+## Method
 1. Mix dry ingredients in one bowl
 2. Mix wet ingredients in another bowl
 3. Heat skillet with a small amount of fat

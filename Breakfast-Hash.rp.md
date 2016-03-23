@@ -15,7 +15,7 @@
 | <input type="checkbox"> | TT       | salt & pepper                      |
 | <input type="checkbox"> | TT       | hot sauce                          |
 
-###Instructions
+###Method
 1. Heat large skillet over med-high heat
 2. Cook diced bacon just until the fat starts rendering
 3. Next add onions, pepper and sweet potato and cover

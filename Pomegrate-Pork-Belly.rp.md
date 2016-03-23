@@ -10,7 +10,7 @@
 | <input type="checkbox"> | 2 ea    | garlic cloves *minced* |
 | <input type="checkbox"> | ½ c     | coconut sugar          |
 
-###Instructions
+###Method
 
 ####Prep
 1. Lay out the pork belly. Score the skin with Diagonal slices, cutting through the fat, just to where it touches the meat.

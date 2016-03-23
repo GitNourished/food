@@ -17,7 +17,7 @@
 | <input type="checkbox"> | ~ ½ cup       | water or ice                    |
 | <input type="checkbox"> | ¼-½ cup       | cocoa powder                    |
 
-## Instructions
+## Method
 1. Blend all ingredients except the water or ice in blender until soft and creamy.
 2. Add water or ice and blend some more until well blended. Ideally, you want a yogurtlike consistency for creamy ice cream.
 3. Pour the mixture into an ice cream maker and turn it on.
