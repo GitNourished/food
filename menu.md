@@ -40,8 +40,9 @@
 - Ice Cream
 	- Vanilla
 	- Chocolate
-- Seasonal Sorbet
+- Seasonal [Sorbet][sorbet]
 	- Mango
 	- Blueberry
 	- Raspberry
 	- Pineapple
+[sorbet]:Sorbet-base.rp.md
