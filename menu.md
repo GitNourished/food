@@ -21,6 +21,7 @@
 - Quiche
 - Pancake Plater
 - Breakfast Sandwich
+
 ###Lunch/Dinner
 - Crudite
 - Soup of the day
@@ -33,6 +34,7 @@
 	- Pulled Pork
 	- Ground Bison 
 	- Smoked Salmon
+
 ##Treats
 - Almond Cookies
 - Tiger Brownies
